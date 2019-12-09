@@ -1,11 +1,11 @@
-# Rick and Morty Characters - Backend
+# Rick and Morty Characters - Front end
 A simple project that displays and filters Rick and Morty characters.
 
 ## General info
 This application was created for a code challenge.
 
 ## Website
-[Robofriends](https://njjeske.github.io/robofriends/)
+[Rick and Morty Characters](https://njjeske.github.io/codechallenge/)
 
 ## Setup
 After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
