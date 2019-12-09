@@ -1,4 +1,4 @@
-# Rick and Morty Characters - Front end
+# Rick and Morty Characters - Back end
 A simple project that displays and filters Rick and Morty characters.
 
 ## General info
